@@ -11,6 +11,7 @@ var visualization = d3plus.viz()
 .x("year")
 .y("value")
 .draw()
+
 //Gráfico de columnas. Mi 2º gráfico
 var data = [
     {"year": 1991, "name":"alpha", "value": 15},
